@@ -34,7 +34,7 @@ body{
  .box{
    width:380px;
   height:470px;
-  background-image:url("assets/bmi-2.jpg");
+  background-image:url("public/assets/bmi-2.jpg");
   background-repeat: no-repeat;
   background-position:center;
   background-size:120%;
